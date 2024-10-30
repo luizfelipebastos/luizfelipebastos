@@ -16,7 +16,7 @@
 - **Front-end**: HTML5, CSS3, JavaScript (ES6+)
 - **Back-end**: Estudando Node.js
 - **Frameworks/Libraries**: React (em progresso)
-- **Metodologias Ágeis**: XP, Scrum, Lean e Kanban
+- **Metodologias Ágeis** Como XP, Scrum, Lean e Kanban
 
 
 ### 🌱 O que estou estudando agora:
